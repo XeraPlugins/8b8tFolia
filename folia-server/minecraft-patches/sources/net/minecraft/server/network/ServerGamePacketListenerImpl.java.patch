@@ -1,5 +1,31 @@
 --- a/net/minecraft/server/network/ServerGamePacketListenerImpl.java
 +++ b/net/minecraft/server/network/ServerGamePacketListenerImpl.java
+@@ -2029,8 +_,23 @@
+                         this.player.resetLastActionTime();
+                         int maxY = this.player.level().getMaxY();
+                         if (blockPos.getY() <= maxY) {
+-                            if (this.awaitingPositionFromClient == null && (serverLevel.mayInteract(this.player, blockPos) || (serverLevel.paperConfig().spawn.allowUsingSignsInsideSpawnProtection && serverLevel.getBlockState(blockPos).getBlock() instanceof net.minecraft.world.level.block.SignBlock))) { // Paper - Allow using signs inside spawn protection
+-                                this.player.stopUsingItem(); // CraftBukkit - SPIGOT-4706
++                            if (this.awaitingPositionFromClient == null && (serverLevel.mayInteract(this.player, blockPos) || (serverLevel.paperConfig().spawn.allowUsingSignsInsideSpawnProtection && serverLevel.getBlockState(blockPos).getBlock() instanceof net.minecraft.world.level.block.SignBlock))) { // Paper - Allow using signs inside spawn protection                                //Enable MultiTask On 8b8t
++                                //Multitask enable
++                                Item item = itemInHand.getItem();
++                                if (item != Items.END_CRYSTAL
++                                        && item != Items.CHORUS_FRUIT
++                                        && item != Items.GOLDEN_APPLE
++                                        && item != Items.ENCHANTED_GOLDEN_APPLE
++                                        && item != Items.OBSIDIAN
++                                        && item != Items.NETHERITE_SWORD
++                                        && item != Items.NETHERITE_AXE
++                                        && item != Items.NETHERITE_PICKAXE
++                                        && item != Items.DIAMOND_SWORD
++                                        && item != Items.DIAMOND_AXE
++                                        && item != Items.DIAMOND_PICKAXE
++                                        && item != Items.TRIDENT) {
++                                    this.player.stopUsingItem();
++                                }
+                                 InteractionResult interactionResult = this.player.gameMode.useItemOn(this.player, serverLevel, itemInHand, hand, hitResult);
+                                 if (interactionResult.consumesAction()) {
+                                     CriteriaTriggers.ANY_BLOCK_USE.trigger(this.player, hitResult.getBlockPos(), itemInHand.copy());
 @@ -2222,9 +_,10 @@
                  return;
              }
