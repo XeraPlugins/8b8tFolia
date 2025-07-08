@@ -1,13 +1,13 @@
 --- a/net/minecraft/server/network/ServerGamePacketListenerImpl.java
 +++ b/net/minecraft/server/network/ServerGamePacketListenerImpl.java
-@@ -2029,8 +_,23 @@
+@@ -2029,8 +_,30 @@
                          this.player.resetLastActionTime();
                          int maxY = this.player.level().getMaxY();
                          if (blockPos.getY() <= maxY) {
 -                            if (this.awaitingPositionFromClient == null && (serverLevel.mayInteract(this.player, blockPos) || (serverLevel.paperConfig().spawn.allowUsingSignsInsideSpawnProtection && serverLevel.getBlockState(blockPos).getBlock() instanceof net.minecraft.world.level.block.SignBlock))) { // Paper - Allow using signs inside spawn protection
 -                                this.player.stopUsingItem(); // CraftBukkit - SPIGOT-4706
 +                            if (this.awaitingPositionFromClient == null && (serverLevel.mayInteract(this.player, blockPos) || (serverLevel.paperConfig().spawn.allowUsingSignsInsideSpawnProtection && serverLevel.getBlockState(blockPos).getBlock() instanceof net.minecraft.world.level.block.SignBlock))) { // Paper - Allow using signs inside spawn protection                                //Enable MultiTask On 8b8t
-+                                //Multitask enable
++                                //Multitask enable #2
 +                                Item item = itemInHand.getItem();
 +                                if (item != Items.END_CRYSTAL
 +                                        && item != Items.CHORUS_FRUIT
@@ -18,6 +18,13 @@
 +                                        && item != Items.NETHERITE_AXE
 +                                        && item != Items.NETHERITE_PICKAXE
 +                                        && item != Items.DIAMOND_SWORD
++                                        && item != Items.TOTEM_OF_UNDYING
++                                        && item != Items.ANVIL
++                                        && item != Items.COBWEB
++                                        && item != Items.PISTON
++                                        && item != Items.REDSTONE_BLOCK
++                                        && item != Items.RESPAWN_ANCHOR
++                                        && item != Items.GLOWSTONE
 +                                        && item != Items.DIAMOND_AXE
 +                                        && item != Items.DIAMOND_PICKAXE
 +                                        && item != Items.TRIDENT) {
