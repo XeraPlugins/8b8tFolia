@@ -1,0 +1,710 @@
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/timestats/commands/SinceCommand.java:[19,30] cannot access me.txmc.core.timestats.PlayerCheck
+  bad source file: C:\Users\smite\Desktop\8b8tCore-master\8b8tCore\src\main\java\me\txmc\core\timestats\PlayerCheck.java
+    file does not contain class me.txmc.core.timestats.PlayerCheck
+    Please remove or make sure it appears in the correct subdirectory of the sourcepath.
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/timestats/PlayerCheck.java:[11,8] duplicate class: PlayerCheck
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[51,13] cannot find symbol
+  symbol:   method getInstance()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[183,39] cannot find symbol
+  symbol:   method getInstance()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[188,45] cannot find symbol
+  symbol:   method getInstance()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/customexperience/listeners/CustomExperienceJoinLeave.java:[47,17] cannot find symbol
+  symbol:   method getVanishedPlayers()
+  location: variable main of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/customexperience/listeners/CustomExperienceJoinLeave.java:[75,18] cannot find symbol
+  symbol:   method getVanishedPlayers()
+  location: variable main of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[81,9] cannot find symbol
+  symbol:   method getExecutorService()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[83,9] cannot find symbol
+  symbol:   method getExecutorService()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[84,9] cannot find symbol
+  symbol:   method getExecutorService()
+  location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[87,18] constructor TabSection in class me.txmc.core.tablist.TabSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[88,18] constructor ChatSection in class me.txmc.core.chat.ChatSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[89,18] constructor TPASection in class me.txmc.core.tpa.TPASection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[90,18] constructor HomeManager in class me.txmc.core.home.HomeManager cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[91,18] constructor CommandSection in class me.txmc.core.command.CommandSection cannot be applied to given types;   
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[92,18] constructor PatchSection in class me.txmc.core.patch.PatchSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[93,18] constructor DupeSection in class me.txmc.core.dupe.DupeSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[94,18] constructor TimeStatsSection in class me.txmc.core.timestats.TimeStatsSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[99,74] constructor AntiIllegalMain in class me.txmc.core.antiillegal.AntiIllegalMain cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[100,88] constructor VoteSection in class me.txmc.core.vote.VoteSection cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[120,49] cannot find symbol
+  symbol:   method getLogger()
+  location: class me.txmc.core.util.MapCreationLogger
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/BaseCommand.java:[16,48] cannot find symbol
+  symbol:   method getPREFIX()
+  location: class me.txmc.core.util.GlobalUtils
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/BaseCommand.java:[50,72] cannot find symbol
+  symbol:   method getPermissions()
+  location: class me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[36,19] constructor HomeJsonStorage in class me.txmc.core.home.io.HomeJsonStorage cannot be applied to given types;
+  required: no arguments
+  found:    java.io.File
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[39,25] constructor JoinListener in class me.txmc.core.home.listeners.JoinListener cannot be applied to 
+given types;
+  required: no arguments
+  found:    me.txmc.core.home.HomeManager
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[40,47] constructor HomeCommand in class me.txmc.core.home.commands.HomeCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.home.HomeManager
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[41,50] constructor SetHomeCommand in class me.txmc.core.home.commands.SetHomeCommand cannot be applied 
+to given types;
+  required: no arguments
+  found:    me.txmc.core.home.HomeManager
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[42,50] constructor DelHomeCommand in class me.txmc.core.home.commands.DelHomeCommand cannot be applied 
+to given types;
+  required: no arguments
+  found:    me.txmc.core.home.HomeManager
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[43,47] constructor BackCommand in class me.txmc.core.home.commands.BackCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.home.HomeManager
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[65,30] cannot find symbol
+  symbol:   method homes()
+  location: class me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[68,43] invalid method reference
+  cannot find symbol
+    symbol:   method getName()
+    location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[70,43] invalid method reference
+  cannot find symbol
+    symbol:   method getName()
+    location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[78,60] cannot find symbol
+  symbol:   method config()
+  location: class me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[34,21] cannot find symbol
+  symbol:   method getHomes()
+  location: variable homeData of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[42,21] cannot find symbol
+  symbol:   method getHomes()
+  location: variable homeData of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[83,29] constructor Home in class me.txmc.core.home.Home cannot be applied to given types;       
+  required: no arguments
+  found:    java.lang.String,org.bukkit.Location
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[86,20] constructor HomeData in class me.txmc.core.home.HomeData cannot be applied to given types;
+  required: no arguments
+  found:    java.util.ArrayList<me.txmc.core.home.Home>
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[41,25] constructor ChatFileIO in class me.txmc.core.chat.io.ChatFileIO cannot be applied to given types;
+  required: no arguments
+  found:    java.io.File,me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[44,25] constructor JoinLeaveListener in class me.txmc.core.chat.listeners.JoinLeaveListener cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[45,25] constructor CommandWhitelist in class me.txmc.core.chat.listeners.CommandWhitelist cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[48,49] constructor IgnoreCommand in class me.txmc.core.chat.commands.IgnoreCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[51,53] constructor ToggleChatCommand in class me.txmc.core.chat.commands.ToggleChatCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[52,51] constructor UnIgnoreCommand in class me.txmc.core.chat.commands.UnIgnoreCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatInfo.java:[56,16] cannot find symbol
+  symbol:   method getChatInfoStore()
+  location: variable manager of type me.txmc.core.chat.ChatSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[19,27] cannot find symbol
+  symbol:   method setReplyTarget(org.bukkit.entity.Player)
+  location: variable targetInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[20,27] cannot find symbol
+  symbol:   method setReplyTarget(org.bukkit.entity.Player)
+  location: variable senderInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[24,71] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable manager of type me.txmc.core.chat.ChatSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[33,57] constructor TabWorker in class me.txmc.core.tablist.worker.TabWorker cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.tablist.TabSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[33,15] cannot find symbol
+  symbol:   method getExecutorService()
+  location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[34,25] constructor PlayerJoinListener in class me.txmc.core.tablist.listeners.PlayerJoinListener cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.tablist.TabSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[66,103] cannot find symbol
+  symbol:   method getStartTime()
+  location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[68,103] cannot find symbol
+  symbol:   method getStartTime()
+  location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[33,34] cannot find symbol
+  symbol:   method homes()
+  location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[38,65] invalid method reference
+  cannot find symbol
+    symbol:   method getName()
+    location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[55,35] cannot find symbol
+  symbol:   method getHomes()
+  location: variable homes of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[56,26] cannot find symbol
+  symbol:   method getName()
+  location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[59,42] cannot find symbol
+  symbol:   method getLocation()
+  location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[60,32] cannot find symbol
+  symbol:   method getVanishedPlayers()
+  location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[61,74] cannot find symbol
+  symbol:   method getName()
+  location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[104,45] cannot find symbol
+  symbol:   method plugin()
+  location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[112,45] cannot find symbol
+  symbol:   method plugin()
+  location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/commands/MessageCommand.java:[21,9] constructor ChatCommand in class me.txmc.core.chat.ChatCommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.chat.ChatSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/DiscordCommand.java:[23,33] cannot find symbol
+  symbol:   method getConfig()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandSection.java:[19,26] constructor CommandHandler in class me.txmc.core.command.CommandHandler cannot be applied 
+to given types;
+  required: no arguments
+  found:    me.txmc.core.command.CommandSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[34,42] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[36,43] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[37,42] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[38,40] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[39,54] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[41,45] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[44,46] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[45,42] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[56,43] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[56,74] cannot find symbol
+  symbol:   method getName()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[64,25] cannot find symbol
+  symbol:   method getName()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[67,45] cannot find symbol
+  symbol:   method getPermissions()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[88,25] cannot find symbol
+  symbol:   method getName()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[90,24] cannot find symbol
+  symbol:   method getSubCommands()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[91,45] cannot find symbol
+  symbol:   method getSubCommands()
+  location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/listeners/PlayerListeners.java:[54,32] cannot find symbol
+  symbol:   method checks()
+  location: variable main of type me.txmc.core.antiillegal.AntiIllegalMain
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[54,20] constructor NameCheck in class me.txmc.core.antiillegal.check.checks.NameCheck cannot be applied to given types;
+  required: no arguments
+  found:    org.bukkit.configuration.ConfigurationSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[57,17] constructor PlayerListeners in class me.txmc.core.antiillegal.listeners.PlayerListeners cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.antiillegal.AntiIllegalMain
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[58,17] constructor MiscListeners in class me.txmc.core.antiillegal.listeners.MiscListeners cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.antiillegal.AntiIllegalMain
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[59,17] constructor InventoryListeners in class me.txmc.core.antiillegal.listeners.InventoryListeners cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.antiillegal.AntiIllegalMain
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[25,25] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[29,64] cannot find symbol
+  symbol:   method getPlugin()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[33,25] cannot find symbol
+  symbol:   method getCommandHandler()
+  location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[55,41] cannot find symbol
+  symbol:   method getUsage()
+  location: class me.txmc.core.command.commands.BaseCmd
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/dupe/zombiedupe/ZombieDupe.java:[65,85] cannot find symbol
+  symbol:   variable JUMP
+  location: class org.bukkit.potion.PotionEffectType
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/listeners/Redstone.java:[28,27] cannot find symbol
+  symbol:   method plugin()
+  location: variable main of type me.txmc.core.patch.PatchSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/listeners/Redstone.java:[49,43] cannot find symbol
+  symbol:   method config()
+  location: variable main of type me.txmc.core.patch.PatchSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[46,57] constructor EntityCheckTask in class me.txmc.core.patch.epc.EntityCheckTask cannot be applied 
+to given types;
+  required: no arguments
+  found:    me.txmc.core.patch.PatchSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[46,15] cannot find symbol
+  symbol:   method getExecutorService()
+  location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[48,25] constructor EntitySpawnListener in class me.txmc.core.patch.epc.EntitySpawnListener cannot be 
+applied to given types;
+  required: no arguments
+  found:    me.txmc.core.patch.PatchSection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[50,25] constructor EntitySwitchWorldListener in class me.txmc.core.patch.listeners.EntitySwitchWorldListener cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.Main
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/io/ChatFileIO.java:[39,51] cannot find symbol
+  symbol:   method isToggledChat()
+  location: variable chatInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/io/ChatFileIO.java:[40,59] cannot find symbol
+  symbol:   method isJoinMessages()
+  location: variable chatInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[56,25] constructor LeaveListener in class me.txmc.core.tpa.LeaveListener cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.tpa.TPASection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[57,46] constructor TPACommand in class me.txmc.core.tpa.commands.TPACommand cannot be applied to given types;
+  required: no arguments
+  found:    me.txmc.core.tpa.TPASection
+  reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[58,50] constructor TPAHereCommand in class me.txmc.core.tpa.commands.TPAHereCommand cannot be applied to 
+given types;
+  required: no arguments
+  found:    me.txmc.core.tpa.TPASection
+  reason: actual and formal argument lists differ in length
+[INFO] 100 errors
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.518 s
+[INFO] Finished at: 2025-07-19T20:28:50-04:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile) on project 8b8tCore: Compilation failure: Compilation failure:
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/timestats/commands/SinceCommand.java:[19,30] cannot access me.txmc.core.timestats.PlayerCheck
+[ERROR]   bad source file: C:\Users\smite\Desktop\8b8tCore-master\8b8tCore\src\main\java\me\txmc\core\timestats\PlayerCheck.java
+[ERROR]     file does not contain class me.txmc.core.timestats.PlayerCheck
+[ERROR]     Please remove or make sure it appears in the correct subdirectory of the sourcepath.
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/timestats/PlayerCheck.java:[11,8] duplicate class: PlayerCheck
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[51,13] cannot find symbol
+[ERROR]   symbol:   method getInstance()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[183,39] cannot find symbol
+[ERROR]   symbol:   method getInstance()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/util/GlobalUtils.java:[188,45] cannot find symbol
+[ERROR]   symbol:   method getInstance()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/customexperience/listeners/CustomExperienceJoinLeave.java:[47,17] cannot find symbol
+[ERROR]   symbol:   method getVanishedPlayers()
+[ERROR]   location: variable main of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/customexperience/listeners/CustomExperienceJoinLeave.java:[75,18] cannot find symbol
+[ERROR]   symbol:   method getVanishedPlayers()
+[ERROR]   location: variable main of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[81,9] cannot find symbol
+[ERROR]   symbol:   method getExecutorService()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[83,9] cannot find symbol
+[ERROR]   symbol:   method getExecutorService()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[84,9] cannot find symbol
+[ERROR]   symbol:   method getExecutorService()
+[ERROR]   location: class me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[87,18] constructor TabSection in class me.txmc.core.tablist.TabSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[88,18] constructor ChatSection in class me.txmc.core.chat.ChatSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[89,18] constructor TPASection in class me.txmc.core.tpa.TPASection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[90,18] constructor HomeManager in class me.txmc.core.home.HomeManager cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[91,18] constructor CommandSection in class me.txmc.core.command.CommandSection cannot be applied to given types;   
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[92,18] constructor PatchSection in class me.txmc.core.patch.PatchSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[93,18] constructor DupeSection in class me.txmc.core.dupe.DupeSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[94,18] constructor TimeStatsSection in class me.txmc.core.timestats.TimeStatsSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[99,74] constructor AntiIllegalMain in class me.txmc.core.antiillegal.AntiIllegalMain cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[100,88] constructor VoteSection in class me.txmc.core.vote.VoteSection cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/Main.java:[120,49] cannot find symbol
+[ERROR]   symbol:   method getLogger()
+[ERROR]   location: class me.txmc.core.util.MapCreationLogger
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/BaseCommand.java:[16,48] cannot find symbol
+[ERROR]   symbol:   method getPREFIX()
+[ERROR]   location: class me.txmc.core.util.GlobalUtils
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/BaseCommand.java:[50,72] cannot find symbol
+[ERROR]   symbol:   method getPermissions()
+[ERROR]   location: class me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[36,19] constructor HomeJsonStorage in class me.txmc.core.home.io.HomeJsonStorage cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    java.io.File
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[39,25] constructor JoinListener in class me.txmc.core.home.listeners.JoinListener cannot be applied to 
+given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.home.HomeManager
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[40,47] constructor HomeCommand in class me.txmc.core.home.commands.HomeCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.home.HomeManager
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[41,50] constructor SetHomeCommand in class me.txmc.core.home.commands.SetHomeCommand cannot be applied 
+to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.home.HomeManager
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[42,50] constructor DelHomeCommand in class me.txmc.core.home.commands.DelHomeCommand cannot be applied 
+to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.home.HomeManager
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[43,47] constructor BackCommand in class me.txmc.core.home.commands.BackCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.home.HomeManager
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[65,30] cannot find symbol
+[ERROR]   symbol:   method homes()
+[ERROR]   location: class me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[68,43] invalid method reference
+[ERROR]   cannot find symbol
+[ERROR]     symbol:   method getName()
+[ERROR]     location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[70,43] invalid method reference
+[ERROR]   cannot find symbol
+[ERROR]     symbol:   method getName()
+[ERROR]     location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/HomeManager.java:[78,60] cannot find symbol
+[ERROR]   symbol:   method config()
+[ERROR]   location: class me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[34,21] cannot find symbol
+[ERROR]   symbol:   method getHomes()
+[ERROR]   location: variable homeData of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[42,21] cannot find symbol
+[ERROR]   symbol:   method getHomes()
+[ERROR]   location: variable homeData of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[83,29] constructor Home in class me.txmc.core.home.Home cannot be applied to given types;       
+[ERROR]   required: no arguments
+[ERROR]   found:    java.lang.String,org.bukkit.Location
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/io/HomeJsonStorage.java:[86,20] constructor HomeData in class me.txmc.core.home.HomeData cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    java.util.ArrayList<me.txmc.core.home.Home>
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[41,25] constructor ChatFileIO in class me.txmc.core.chat.io.ChatFileIO cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    java.io.File,me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[44,25] constructor JoinLeaveListener in class me.txmc.core.chat.listeners.JoinLeaveListener cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[45,25] constructor CommandWhitelist in class me.txmc.core.chat.listeners.CommandWhitelist cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[48,49] constructor IgnoreCommand in class me.txmc.core.chat.commands.IgnoreCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[51,53] constructor ToggleChatCommand in class me.txmc.core.chat.commands.ToggleChatCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatSection.java:[52,51] constructor UnIgnoreCommand in class me.txmc.core.chat.commands.UnIgnoreCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatInfo.java:[56,16] cannot find symbol
+[ERROR]   symbol:   method getChatInfoStore()
+[ERROR]   location: variable manager of type me.txmc.core.chat.ChatSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[19,27] cannot find symbol
+[ERROR]   symbol:   method setReplyTarget(org.bukkit.entity.Player)
+[ERROR]   location: variable targetInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[20,27] cannot find symbol
+[ERROR]   symbol:   method setReplyTarget(org.bukkit.entity.Player)
+[ERROR]   location: variable senderInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/ChatCommand.java:[24,71] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable manager of type me.txmc.core.chat.ChatSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[33,57] constructor TabWorker in class me.txmc.core.tablist.worker.TabWorker cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.tablist.TabSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[33,15] cannot find symbol
+[ERROR]   symbol:   method getExecutorService()
+[ERROR]   location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[34,25] constructor PlayerJoinListener in class me.txmc.core.tablist.listeners.PlayerJoinListener cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.tablist.TabSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[66,103] cannot find symbol
+[ERROR]   symbol:   method getStartTime()
+[ERROR]   location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tablist/TabSection.java:[68,103] cannot find symbol
+[ERROR]   symbol:   method getStartTime()
+[ERROR]   location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[33,34] cannot find symbol
+[ERROR]   symbol:   method homes()
+[ERROR]   location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[38,65] invalid method reference
+[ERROR]   cannot find symbol
+[ERROR]     symbol:   method getName()
+[ERROR]     location: class me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[55,35] cannot find symbol
+[ERROR]   symbol:   method getHomes()
+[ERROR]   location: variable homes of type me.txmc.core.home.HomeData
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[56,26] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[59,42] cannot find symbol
+[ERROR]   symbol:   method getLocation()
+[ERROR]   location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[60,32] cannot find symbol
+[ERROR]   symbol:   method getVanishedPlayers()
+[ERROR]   location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[61,74] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable home of type me.txmc.core.home.Home
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[104,45] cannot find symbol
+[ERROR]   symbol:   method plugin()
+[ERROR]   location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/home/commands/HomeCommand.java:[112,45] cannot find symbol
+[ERROR]   symbol:   method plugin()
+[ERROR]   location: variable main of type me.txmc.core.home.HomeManager
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/commands/MessageCommand.java:[21,9] constructor ChatCommand in class me.txmc.core.chat.ChatCommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.chat.ChatSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/DiscordCommand.java:[23,33] cannot find symbol
+[ERROR]   symbol:   method getConfig()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandSection.java:[19,26] constructor CommandHandler in class me.txmc.core.command.CommandHandler cannot be applied 
+to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.command.CommandSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[34,42] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[36,43] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[37,42] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[38,40] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[39,54] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[41,45] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[44,46] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[45,42] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[56,43] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[56,74] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[64,25] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[67,45] cannot find symbol
+[ERROR]   symbol:   method getPermissions()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[88,25] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[90,24] cannot find symbol
+[ERROR]   symbol:   method getSubCommands()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/CommandHandler.java:[91,45] cannot find symbol
+[ERROR]   symbol:   method getSubCommands()
+[ERROR]   location: variable command of type me.txmc.core.command.BaseCommand
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/listeners/PlayerListeners.java:[54,32] cannot find symbol
+[ERROR]   symbol:   method checks()
+[ERROR]   location: variable main of type me.txmc.core.antiillegal.AntiIllegalMain
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[54,20] constructor NameCheck in class me.txmc.core.antiillegal.check.checks.NameCheck cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    org.bukkit.configuration.ConfigurationSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[57,17] constructor PlayerListeners in class me.txmc.core.antiillegal.listeners.PlayerListeners cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.antiillegal.AntiIllegalMain
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[58,17] constructor MiscListeners in class me.txmc.core.antiillegal.listeners.MiscListeners cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.antiillegal.AntiIllegalMain
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/antiillegal/AntiIllegalMain.java:[59,17] constructor InventoryListeners in class me.txmc.core.antiillegal.listeners.InventoryListeners cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.antiillegal.AntiIllegalMain
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[25,25] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[29,64] cannot find symbol
+[ERROR]   symbol:   method getPlugin()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[33,25] cannot find symbol
+[ERROR]   symbol:   method getCommandHandler()
+[ERROR]   location: variable main of type me.txmc.core.command.CommandSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/command/commands/BaseCmd.java:[55,41] cannot find symbol
+[ERROR]   symbol:   method getUsage()
+[ERROR]   location: class me.txmc.core.command.commands.BaseCmd
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/dupe/zombiedupe/ZombieDupe.java:[65,85] cannot find symbol
+[ERROR]   symbol:   variable JUMP
+[ERROR]   location: class org.bukkit.potion.PotionEffectType
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/listeners/Redstone.java:[28,27] cannot find symbol
+[ERROR]   symbol:   method plugin()
+[ERROR]   location: variable main of type me.txmc.core.patch.PatchSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/listeners/Redstone.java:[49,43] cannot find symbol
+[ERROR]   symbol:   method config()
+[ERROR]   location: variable main of type me.txmc.core.patch.PatchSection
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[46,57] constructor EntityCheckTask in class me.txmc.core.patch.epc.EntityCheckTask cannot be applied 
+to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.patch.PatchSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[46,15] cannot find symbol
+[ERROR]   symbol:   method getExecutorService()
+[ERROR]   location: variable plugin of type me.txmc.core.Main
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[48,25] constructor EntitySpawnListener in class me.txmc.core.patch.epc.EntitySpawnListener cannot be 
+applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.patch.PatchSection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/patch/PatchSection.java:[50,25] constructor EntitySwitchWorldListener in class me.txmc.core.patch.listeners.EntitySwitchWorldListener cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.Main
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/io/ChatFileIO.java:[39,51] cannot find symbol
+[ERROR]   symbol:   method isToggledChat()
+[ERROR]   location: variable chatInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/chat/io/ChatFileIO.java:[40,59] cannot find symbol
+[ERROR]   symbol:   method isJoinMessages()
+[ERROR]   location: variable chatInfo of type me.txmc.core.chat.ChatInfo
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[56,25] constructor LeaveListener in class me.txmc.core.tpa.LeaveListener cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.tpa.TPASection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[57,46] constructor TPACommand in class me.txmc.core.tpa.commands.TPACommand cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.tpa.TPASection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/Users/smite/Desktop/8b8tCore-master/8b8tCore/src/main/java/me/txmc/core/tpa/TPASection.java:[58,50] constructor TPAHereCommand in class me.txmc.core.tpa.commands.TPAHereCommand cannot be applied to 
+given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    me.txmc.core.tpa.TPASection
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
